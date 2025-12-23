@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me  
-📍 From Rajasthan,India 
+📍 From India 
 
 I'm a **Frontend Web Developer** passionate about turning ideas into beautiful, functional interfaces.  
 I believe the web is more than code — it's about **experience, accessibility, and impact**.
